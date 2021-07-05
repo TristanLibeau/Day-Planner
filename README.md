@@ -31,7 +31,7 @@ Mock-Up
 This is a Gif of the expected behavior.
 
 
-![mock-up](./assets/gif/work-day-scheduler.gif)
+![mock-up](./assets/gif/work-day.gif)
 
 * Credits
 
