@@ -4,7 +4,7 @@ The deployed Webpage is a day planner for a day hour to hour planning. When you 
 
 URL of the Web page:
 
-
+https://tristanlibeau.github.io/Day-Planner/
 
 URL of my Repository:
 
